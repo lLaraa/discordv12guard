@@ -1,0 +1,19 @@
+{
+  "token": "TOKEN",
+  "botVoiceChannel": "SESKANALID",
+  "Durum": "",
+  "Owner": "OWNERID",
+  "prefix": ".",
+  "guildID": "SUNUCUID",
+  "booster": "BOOSTERID",
+  "jail": "JAILROLEID",
+  
+  "Log": {
+    "ChannelLog": "LOGID",
+    "RoleLog": "LOGID",
+    "GuildUpdateLog": "LOGID",
+    "BotAddLog": "LOGID",
+    "KickLog": "LOGID",
+    "BanLog": "LOGID"
+  }
+}
