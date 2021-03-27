@@ -5,8 +5,8 @@
 Sunucunuzun göreceği herhangi bir zararda sorumluluk kabul etmiyorum.
 
 # İçeriği Nasıl ?
- [prefix]güvenli Komutu ile güvenlideki üyeleri görebilirsiniz.
- [prefix]ytkapat Botun altında ki bütün rollerin yönetici,rolleri yönet,kanalları yönet,sunucu yönet, üye banla,üye kickle, isim değiştir, webhook yönet ve emoji yönetme rollerinin permini 0 Çeker. Yani hiçbir şekilde yetkileri kalmaz.
+ (prefix)güvenli Komutu ile güvenlideki üyeleri görebilirsiniz.
+ (prefix)ytkapat Botun altında ki bütün rollerin yönetici,rolleri yönet,kanalları yönet,sunucu yönet, üye banla,üye kickle, isim değiştir, webhook yönet ve emoji yönetme rollerinin permini 0 Çeker. Yani hiçbir şekilde yetkileri kalmaz.
  
  # Güvenliye nasıl ekleyebilirim ? 
  
